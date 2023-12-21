@@ -14,8 +14,8 @@ A simple GUI application that allows users to create QR codes containing contact
 ## Usage
 
 1. Input the required information into the respective fields (Name, Email, Twitter, GitHub).
-2. Click on the "Create QR Code" button to generate the QR code based on the provided data.
-3. Use the "Save as PNG" option to download the QR code as an image file.
+2. Click on the "Create" button to generate the QR code based on the provided data.
+3. Use the "Save" option to download the QR code as an image file.
 4. To cancel and remove the QR code, use the "Cancel" button.
 
 ## Installation
