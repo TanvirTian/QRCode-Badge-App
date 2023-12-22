@@ -19,7 +19,7 @@ A simple GUI application that allows users to create QR codes containing contact
 4. To cancel and remove the QR code, use the "Cancel" button.
 
 ## Installation
-
+required libraries: pyqt5, qrcode
 - Clone the repository:
   ```bash
   git clone https://github.com/your_username/QRCode-Badge-App.git
