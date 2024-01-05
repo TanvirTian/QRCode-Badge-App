@@ -22,4 +22,4 @@ A simple GUI application that allows users to create QR codes containing contact
 required libraries: pyqt5, qrcode
 - Clone the repository:
   ```bash
-  git clone https://github.com/your_username/QRCode-Badge-App.git
+  git clone https://github.com/TanvirTian/QRCode-Badge-App.git
