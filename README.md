@@ -1,8 +1,9 @@
-# QRCode Badge Generator App
+#QR Badge Generator
+
+In today's interconnected world, networking and sharing contact information have become essential aspects of professional and social interactions. QR codes offer a convenient and efficient solution for exchanging contact details seamlessly. Introducing QR Badge Generator, a simple yet powerful GUI application designed to streamline the process of creating personalized QR codes for badges.
+A simple GUI application that allows users to create QR codes containing contact information for badges. Users can input their name, email, Twitter handle, and GitHub username to generate a personalized QR code, which can then be saved as a PNG image.
 
 ![QRCode Badge Generator](https://github.com/TanvirTian/QRCode-Badge-App/assets/82821548/3a16fa7e-6f62-4e13-82d2-c74e3e3af473)
-
-A simple GUI application that allows users to create QR codes containing contact information for badges. Users can input their name, email, Twitter handle, and GitHub username to generate a personalized QR code, which can then be saved as a PNG image.
 
 ## Features
 
